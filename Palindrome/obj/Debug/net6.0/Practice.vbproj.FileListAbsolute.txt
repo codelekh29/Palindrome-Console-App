@@ -1,0 +1,15 @@
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\bin\Debug\net6.0\Practice.exe
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\bin\Debug\net6.0\Practice.deps.json
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\bin\Debug\net6.0\Practice.runtimeconfig.json
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\bin\Debug\net6.0\Practice.dll
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\bin\Debug\net6.0\Practice.pdb
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\Practice.vbproj.AssemblyReference.cache
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\Practice.AssemblyInfoInputs.cache
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\Practice.AssemblyInfo.vb
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\Practice.vbproj.CoreCompileInputs.cache
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\Practice.dll
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\refint\Practice.dll
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\Practice.pdb
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\Practice.genruntimeconfig.cache
+C:\Users\Alekhine\Desktop\Intermediate VB\Practice_First\Practice\obj\Debug\net6.0\ref\Practice.dll
